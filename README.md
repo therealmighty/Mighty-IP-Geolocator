@@ -1,4 +1,7 @@
 # Mighty-IP-Geolocator
 Basic Python IP Geolocator that runs through cmd
 
-To install, run install.bat and then open it with Python.
+How to use:
+1. Install Python at https://www.python.org/downloads/
+2. Run Install.bat
+3. Open Mighty-IP-Geolocator with python
